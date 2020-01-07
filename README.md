@@ -1,7 +1,7 @@
 ## Open Source Contributions
 
 - [ngx-pub-sub](https://github.com/paritosh64ce/ngx-pub-sub) @ [![npm](https://img.shields.io/npm/v/@pscoped/ngx-pub-sub.svg)](https://www.npmjs.com/package/@pscoped/ngx-pub-sub) [![npm](https://img.shields.io/npm/dt/@pscoped/ngx-pub-sub.svg)](https://www.npmjs.com/package/@pscoped/ngx-pub-sub)
-- [ng2-cache](https://github.com/paritosh64ce/ng2-cache/graphs/contributors)
+- [ng2-cache](https://github.com/paritosh64ce/ng2-cache/graphs/contributors) [![npm](https://img.shields.io/npm/dt/ng2-cache.svg)](https://www.npmjs.com/package/ng2-cache)
 
 
 ## Blog: Simplifying Tech
